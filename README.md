@@ -20,6 +20,12 @@ This is the repository for my **University Project**. This is a **Student Manage
 * View all students
 * Exit
 
+## Screenshot
+![Screenshot 2023-05-28 173131](https://github.com/anhtuan0302/Student-Management/assets/91358643/ba5fb576-9020-4afc-8661-b9f1e71df5b0)
+
+
+
+
 ## Getting Started
 1. Clone or download the repository.
 2. Open the [Source-Code.c](https://github.com/anhtuan0302/Student-Management/blob/main/Source-Code.c).
