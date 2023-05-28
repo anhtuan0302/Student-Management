@@ -21,8 +21,8 @@ This is the repository for my **University Project**. This is a **Student Manage
 * Exit
 
 ## Getting Started
-1. Clone or download the repository
-2. Open the Source-Code.c
+1. Clone or download the repository.
+2. Open the [Source-Code.c](https://github.com/anhtuan0302/Student-Management/blob/main/Source-Code.c).
 3. Explore it!
 
 ## Contributing
